@@ -1,6 +1,3 @@
-![Screenshot 2023-06-25 130508](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/62908e45-2776-4b33-9918-15bd64676b37)
-![Screenshot 2023-06-25 130508](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/6a02a5ae-9d26-4e86-ab82-e4fca940ff4c)
-![Screenshot 2023-06-25 130442](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/0d3b8d59-8047-4601-8dc5-becf8a6ff113)
 # futureskills-azure
 Final project by Abdul/Karan
 
@@ -8,6 +5,13 @@ Azure link: https://witty-coast-074768410.3.azurestaticapps.net
 
 
 Web-APP:
+
+
+
+
+![Screenshot 2023-06-25 130508](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/62908e45-2776-4b33-9918-15bd64676b37)
+![Screenshot 2023-06-25 130508](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/6a02a5ae-9d26-4e86-ab82-e4fca940ff4c)
+![Screenshot 2023-06-25 130442](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/0d3b8d59-8047-4601-8dc5-becf8a6ff113)
 
 ![Screenshot 2023-06-25 133326](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/d9cc5d58-bd85-461e-9208-4363073462e3)
 
