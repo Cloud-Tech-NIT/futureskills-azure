@@ -1,3 +1,7 @@
+![Screenshot (472)](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/86ce4227-2daf-4f43-a968-bac8a0dc8136)
+![Screenshot (473)](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/385573b8-3227-4040-bc2a-21e1763dc301)
+![Uploading Screenshot (474).png…]()
+![Uploading Screenshot (475).png…]()
 # futureskills-azure
 Final project by Abdul/Karan
 
@@ -31,3 +35,20 @@ Azure and github Service:
 ![Uploading Screenshot 2023-06-25 130442.png…]()
 ![Screenshot 2023-06-25 130622](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/9085f096-f8f2-41c3-9c04-03ee96eab54f)
 ![Screenshot 2023-06-25 130508](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/bd4f8848-c448-4e49-aae6-e6e34babe686)
+
+
+Updating CDN for global access:
+Create frontdoor cdn profile:
+![Screenshot (476)](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/cf8008f5-4a18-4199-b741-5b5010152571)
+![Screenshot (472)](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/1e1e3c24-5769-4604-a571-9599d70858a0)
+Update origin
+![Screenshot (477)](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/8fdb05e3-d959-4f4a-88bb-7eee2f335419)
+Route
+![Screenshot (473)](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/d27c03db-1be6-441e-bacd-379f751729b7)
+
+Now ur Web app is online(note: Wait for five minutes...for complete visual)
+https://indiansearth-fpfecsemhfddg4eb.z01.azurefd.net/about.html 
+Global access:
+![Screenshot (471)](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/86253642-71fa-4a81-9f6a-f79961987eae)
+
+
