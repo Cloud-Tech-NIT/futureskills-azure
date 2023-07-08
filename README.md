@@ -1,3 +1,15 @@
+create the webapp using online service.
+create the repo or use the storage or other  services from azure.
+Deploy in git.
+Deploy through static webapp
+USe front door and CDN to cache and increase the latency globaly with WAF policy to secure vulnerabilities.
+Use cutom domain with free services like name, here .liv some other are free.
+Update custom domain after ssl , validate in azure and update in CDN policy.
+In repo use the services u need like sing in , sign up, storage links , videos , conferencing . blog , resume, projects.
+Here I invested nothing, can become a community person with helpfull views,here u can use all free services and can offer ur knowledge and resources available for all. like course content, or Exam dumps u sed, ur projects or even ur blogs with responsive manner that track progress. 
+
+
+
 ![Screenshot (472)](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/86ce4227-2daf-4f43-a968-bac8a0dc8136)
 ![Screenshot (473)](https://github.com/Cloud-Tech-NIT/futureskills-azure/assets/84670814/385573b8-3227-4040-bc2a-21e1763dc301)
 ![Uploading Screenshot (474).png…]()
